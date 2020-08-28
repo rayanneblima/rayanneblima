@@ -7,11 +7,11 @@
  <div align="left">
     <h3>Hey, curious! <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
     </h3>
-    <p>I'm Rayanne Bertolace Lima, Jr. Full Stack, Computer Science Student at Federal Institute of Education Science and Technology of Southeast Minas Gerais (IFSEMG) and Full Stack Java Development Scholarship by Digital House Brasil in partnership with Santander Coders.</p>
+    <p>I'm Rayanne Bertolace Lima, Full Stack Developer, Computer Science Student at Federal Institute of Education Science and Technology of Southeast Minas Gerais (IFSEMG) and Full Stack Java Development Scholarship by Digital House Brasil in partnership with Santander Coders.</p>
   </div>
   <div>
     <ul>
-      <li><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> Studiyng: JavaScript | Java | Frameworks;</li>
+      <li><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> Studying: JavaScript | Java | Frameworks;</li>
       <li><g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji> Hobbies: 
 watch movies and series, listen music, play guitar and online games;</li>
     </ul>
