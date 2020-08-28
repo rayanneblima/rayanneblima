@@ -22,10 +22,10 @@ watch movies and series, listen music, play guitar and online games;</li>
   <div align="center">
     <p><b>Hard Skills - Technologies</b><br></p>
     <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML 5" />
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" />
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS 3" />
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java 8+" />
-    <img src="https://img.icons8.com/color/48/000000/javascript.png"  alt="Javascript" />
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap" />
+    <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS 3" />
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java 8+" />
+    <img src="https://img.icons8.com/color/48/000000/javascript.png"  title="Javascript" />
     <br><br>
     <p><b>Other Skills - Technologies</b><br></p>
     <img src="https://img.icons8.com/color/48/000000/android-os.png"  alt="Android Development" />
