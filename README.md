@@ -49,7 +49,7 @@ watch movies and series, listen music, play guitar and online games;</li>
     </a>
     <br><br>
     <p><i><a href="https://rayanneblima.github.io/" target="_blank">My Portfolio</a></i></p>
-    <p><i><a href="https://drive.google.com/file/d/1mixtKcxM7Dv3Njy-Z8u6uI-dnfFZAYMn/view?usp=sharing" target="_blank">My Curriculum Vitae (PT-BR)</a></i></p>
+    <p><i><a href="https://drive.google.com/file/d/1P3-QfYmkLW4C9qz-r0PVeHs6JjGe_U2m/view?usp=sharing" target="_blank">My Curriculum Vitae (PT-BR)</a></i></p>
   </div>
   
 </div>
