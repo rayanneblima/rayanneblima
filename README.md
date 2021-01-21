@@ -25,7 +25,6 @@
         </li>
       </ul>
     </div>
-    <br>
     <div align="left">
       <h2>Development Stack</h2>
       <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML 5" />
@@ -41,7 +40,6 @@
       <img src="https://img.icons8.com/metro/48/000000/mysql.png" title="MySQL" />
       <img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB" />
     </div>
-    <br>
     <div align="left">
       <h2>Find Me</h2>
       <a href="https://www.linkedin.com/in/rayannebertolacelima" target="_blank" style="text-decoration: none">
@@ -62,8 +60,7 @@
           max-width:100%;">
       </a>
     </br>
-    </br>
-      <div>
+      <div style="display: flex; align-items: center">
         <img src="https://img.icons8.com/fluent/36/000000/webpage.png" title="Portfolio" />
         <a href="https://rayanneblima.github.io/" target="_blank" style="text-decoration: none">
           Portfolio
