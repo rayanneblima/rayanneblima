@@ -1,4 +1,4 @@
-<div>
+  <div>
     <div align="center">
       <h1>
         <g-emoji class="g-emoji" alias="woman_technologist"
@@ -6,6 +6,7 @@
         Rayanne Bertolace Lima
       </h1>
     </div>
+
     <div align="left">
       <h3>Hey, curious! <g-emoji class="g-emoji" alias="wave"
           fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
@@ -13,6 +14,7 @@
       <p>I'm Rayanne Bertolace Lima, Full Stack Developer, Computer Science Student at Federal Institute of Education
         Science and Technology of Southeast Minas Gerais (IFSEMG) and Full Stack Java Developer by Digital House Brasil in partnership with Santander Coders.</p>
     </div>
+
     <div>
       <ul>
         <li>
@@ -28,7 +30,7 @@
       </ul>
     </div>
 
-    </br>
+    <br>
 
     <div align="left">
       <h2>Development Stack</h2>
@@ -65,13 +67,13 @@
         <img
           src="https://camo.githubusercontent.com/627a4a98478d460b2acca139a9b5e0face41aa4c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d3163613066313f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d316361306631266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f742e6d652f6c75636173676462"
           alt="Telegram Badge"
-          data-canonical-src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&amp;labelColor=1ca0f1&amp;logo=telegram&amp;logoColor=white&amp; style="
+          data-canonical-src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&amp;labelColor=1ca0f1&amp;logo=telegram&amp;logoColor=white&amp;" style="
           max-width:100%;">
       </a>
       <a href="mailto:rayanne22a@gmail.com" target="_blank" style="text-decoration: none"><img
           src="https://camo.githubusercontent.com/2ddaca6465df34255a9431f5ebb85ca440d06625/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6c75636173676462697474656e636f75727440676d61696c2e636f6d"
           alt="Gmail Badge"
-          data-canonical-src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp; style="
+          data-canonical-src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;" style="
           max-width:100%;">
       </a>
     </br>
@@ -89,19 +91,3 @@
     </div>
 
   </div>
-
-
-  <!--
-  **rayanneblima/rayanneblima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-  
-  Here are some ideas to get you started:
-  
-  - 🔭 I’m currently working on ...
-  - 🌱 I’m currently learning ...
-  - 👯 I’m looking to collaborate on ...
-  - 🤔 I’m looking for help with ...
-  - 💬 Ask me about ...
-  - 📫 How to reach me: ...
-  - 😄 Pronouns: ...
-  - ⚡ Fun fact: ...
-  -->
