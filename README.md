@@ -28,8 +28,6 @@
     <br>
     <div align="left">
       <h2>Development Stack</h2>
-      <hr>
-      </hr>
       <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML 5" />
       <img src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap" />
       <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS 3" />
@@ -46,7 +44,6 @@
     <br>
     <div align="left">
       <h2>Find Me</h2>
-      <hr>
       <a href="https://www.linkedin.com/in/rayannebertolacelima" target="_blank" style="text-decoration: none">
         <img src="https://camo.githubusercontent.com/0271c9f903c82d91b19ebd8458901d7c61ce1528/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f267374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"
           alt="LinkedIn"
