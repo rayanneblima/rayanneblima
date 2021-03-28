@@ -66,7 +66,7 @@
           Portfolio
         </a>
         <img src="https://img.icons8.com/ultraviolet/36/000000/download-resume.png" title="CV" />
-        <a href="https://drive.google.com/file/d/1akdGjdSQxgFJMnQU0_ZCT1gYvjKShEr6/view?usp=sharing" target="_blank"
+        <a href="https://drive.google.com/file/d/1I5PFaZE4IhoTZXPYi46aeTFnQ2Mh7XeK/view?usp=sharing" target="_blank"
           style="text-decoration: none">Curriculum Vitae (PT-BR)
         </a>
       </div>
