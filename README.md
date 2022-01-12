@@ -36,36 +36,25 @@
     <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS 3" />
     <img src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript" />
     <img src="https://img.icons8.com/color/48/000000/typescript.png" title="Typescript" />
-    
     <img src="https://img.icons8.com/color/48/sass-avatar.png" title="SASS" />
-    
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap" />
     <img src="https://img.icons8.com/windows/48/vuetify.png" title="Vuetify" />
     <img src="https://img.icons8.com/color/48/material-ui.png" title="Material UI" />
-    
     <img src="https://img.icons8.com/color/48/000000/vue-js.png" title="Vue.JS" />
     <img src="https://img.icons8.com/color/48/000000/react-native.png" title="React" />
-
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-shadow-tal-revivo.png" title="Jest" />
-    
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-shadow-tal-revivo.png" title="Jest" />    
     <img src="https://img.icons8.com/color/48/000000/php.png" title="PHP" />
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java 8+" />
     <img src="https://img.icons8.com/color/48/000000/spring-logo.png" title="Spring" />
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" title="NodeJS" />
-
     <img src="https://img.icons8.com/color/48/000000/android-os.png" title="Android Development" />
-
     <img src="https://img.icons8.com/color/48/000000/postgreesql.png" title="PostgreeSQL" />
     <img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/48/external-mysql-an-open-source-relational-database-management-system-logo-tritone-tal-revivo.png" title="MySQL" />
-    <img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB" />
-    
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB" />    
     <img src="https://img.icons8.com/color/48/docker.png" title="Docker" />
-
     <img src="https://img.icons8.com/color/48/figma--v1.png" title="Figma" />
-
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-sourcetree-is-a-nice-alternative-to-the-git-command-line-logo-shadow-tal-revivo.png" title="Sourcetree" />
     <img src="https://img.icons8.com/color/48/gitlab.png" title="Gitlab" />
-
   </div>
   <div align="left">
     <h2>Find Me</h2>
