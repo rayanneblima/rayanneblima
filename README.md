@@ -26,7 +26,18 @@
       <li>
         <g-emoji class="g-emoji" alias="smile"
           fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji>
-        Hobbies: watch movies and series, listen music, play guitar and online games;
+        Hobbies: watch movies and series, listen music, play guitar, drums and online games;
+      </li>
+      <li>
+        <g-emoji class="g-emoji" alias="woman_technologist"
+        fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png">👩&zwj;💻</g-emoji>
+        Actually: 
+        <ul>
+          <li>Senior Front-End Developer at <a href="https://www.tray.com.br/" target="_blank">Tray | Locaweb </a></li>
+          <li>Full Stack Developer at <a href="https://www.tray.com.br/" target="_blank">Health Easy</a> (Freelancer)</li>
+          <li>Front-End Developer at <a href="https://humanitasforlife.org/index" target="_blank">Humanitas For Life</a> (Freelancer)</li>
+          <li>Front-End Developer at <a href="https://humanitasforlife.org/index" target="_blank">Lacrei</a> (Volunteer)</li>
+        </ul>
       </li>
     </ul>
   </div>
@@ -58,9 +69,8 @@
   </div>
   <div align="left">
     <h2>Find Me</h2>
-    <a href="https://www.linkedin.com/in/rayannebertolacelima" target="_blank" style="text-decoration: none">
-      <img
-        src="https://camo.githubusercontent.com/0271c9f903c82d91b19ebd8458901d7c61ce1528/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f267374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"
+    <a href="https://www.linkedin.com/in/rayanneblima" target="_blank" style="text-decoration: none">
+      <img        src="https://camo.githubusercontent.com/0271c9f903c82d91b19ebd8458901d7c61ce1528/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f267374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"
         alt="LinkedIn"
         data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&amp;style=flat-square&amp;logo=linkedin&amp;logoColor=white"
         style="max-width:100%;">
