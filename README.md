@@ -34,9 +34,9 @@
         Actually: 
         <ul>
           <li>Senior Front-End Developer at <a href="https://www.tray.com.br/" target="_blank">Tray | Locaweb </a></li>
-          <li>Full Stack Developer at <a href="https://www.tray.com.br/" target="_blank">Health Easy</a> (Freelancer)</li>
+          <li>Full Stack Developer at <a href="https://www.healtheasy.com.br/" target="_blank">Health Easy</a> (Freelancer)</li>
           <li>Front-End Developer at <a href="https://humanitasforlife.org/index" target="_blank">Humanitas For Life</a> (Freelancer)</li>
-          <li>Front-End Developer at <a href="https://humanitasforlife.org/index" target="_blank">Lacrei</a> (Volunteer)</li>
+          <li>Front-End Developer at <a href="https://portallacrei.com.br/" target="_blank">Lacrei</a> (Volunteer)</li>
         </ul>
       </li>
     </ul>
